@@ -1,0 +1,52 @@
+body {
+	background-color: gray;
+
+}
+
+
+h1 {
+	color: white;
+	text-align: center;
+	font-family: "montserrat", "arial", serif;
+	font-size: 50pt;
+	font-weight: bold;
+	line-height: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+
+}
+
+h2 {
+	text-align: center;
+	font-family: "montserrat", "arial", serif;
+	font-size: 14pt;
+	line-height: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+h3 {
+	color: white;
+	text-align: center;
+	font-family: "montserrat", "arial", serif;
+	font-size: 18pt;
+	line-height: 50px;
+	padding: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+p {
+	text-align: center;
+	font-family: "montserrat", "arial", serif;
+	font-size: 14pt;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 25px;
+	margin-left: 100px;
+	margin-right: 100px;
+	
+}
+
+
+

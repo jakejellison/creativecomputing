@@ -1,0 +1,62 @@
+h1 {
+	text-align: center;
+	font-family: "montserrat", "arial", serif;
+	font-size: 50pt;
+	font-weight: bold;
+	line-height: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+
+}
+
+h2 {
+	text-align: center;
+	font-family: "montserrat", "arial", serif;
+	font-size: 14pt;
+	line-height: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+h3 {
+	text-align: left;
+	font-family: "montserrat", "arial", serif;
+	font-size: 14pt;
+	line-height: 20px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 10px;
+}
+
+h4 {
+	text-align: left;
+	font-family: "montserrat", "arial", serif;
+	font-size: 14pt;
+	line-height: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+h5 {
+	text-align: center;
+	font-family: "montserrat", "arial", serif;
+	font-size: 14pt;
+	line-height: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+p {
+	text-align: left;
+	font-family: "montserrat", "arial", serif;
+	font-size: 10pt;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 15px;
+	width: 80vw;
+	padding: 10px;
+	
+}
+
+
+

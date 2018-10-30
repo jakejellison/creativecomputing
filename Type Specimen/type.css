@@ -1,0 +1,28 @@
+ @import url("https://use.typekit.net/vok3adj.css");
+
+ h1 {
+ 	font-family: futura-pt;
+ 	font: light;
+ 	font-style: normal;
+ 	text-align: center;
+ 	font-size: 80px
+ }
+
+ #lighttop {
+ 	font-family: futura-pt;
+ 	font: light;
+ 	font-style: normal;
+ 	text-align: center;
+ 	font-size: 80px
+ 	transition-property: opacity, left;
+ 	transition-duration: 2s, 4s;
+ }
+
+#lightbottom {
+ 	font-family: futura-pt;
+ 	font: light;
+ 	font-style: normal;
+ 	text-align: center;
+ 	font-size: 60px
+ 	line-height: 40px;
+ }
